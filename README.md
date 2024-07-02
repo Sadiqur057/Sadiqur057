@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there👋 
+
+![Banner Image](images/bannerImage.jpg)
 
 
 
