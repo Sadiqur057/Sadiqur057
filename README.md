@@ -1,4 +1,4 @@
-![Banner Image](images/banner.jpg)
+![Banner Image](images/banner.png)
 
 
 ## About me
